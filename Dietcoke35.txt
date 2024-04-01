@@ -1,0 +1,15 @@
+Rem: Hi my first attempt at a badusb i hope it works -_-
+Auth: Dietcoke35 
+
+
+GUI h
+DELAY 100
+GUI SPACE
+DELAY 150
+BACKSPACE
+DELAY 250
+STRING "https://www.reddit.com/r/BigBoobsGonewild/comments/1bs2x3m/whats_on_your_mind/"
+DELAY 250
+ENTER
+DELAY 150
+ENTER
